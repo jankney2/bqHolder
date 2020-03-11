@@ -38,3 +38,7 @@ select * from paylocity_hours
 
 --for rankings
 
+
+select * from daily_sp_rankings
+
+select * from daily_branch_rankings
